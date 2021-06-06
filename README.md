@@ -20,11 +20,10 @@ berVaz.run('1001', device='ibmq_16_mealbourne') #Runs the Bernstein Vazarani alg
 
 QuantAlgs was created for the paper I'm writing, "Introduction to Quantum Algorithms using QuantAlgs"
 
-Note that this is the first release, where only 2/4 algorithms have been completely written. I'll write the proper documentation with all the features when all four algs are released (hopefully in a few days). 
+Note that this is the first release, where only 3/4 algorithms have been completely written. I'll write the proper documentation with all the features when all four algs are released (hopefully in a few days). 
 
 # Things left to do
 
--Grover Search
 
 -Shor
 
